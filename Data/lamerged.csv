@@ -1,0 +1,122 @@
+,zip_code,Median_Income,rental price,city,persons counted 2018,persons counted 2019,persons in perma housing,latitude,longitude,Median Age,Population,Household,median lengh of residence,average house income,Unemployed %,crimes,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue
+0,90023,40225,2201,Commerce,490,295,17,34.0245,-118.1975,31.4,46455,10966,8.0,59679,6.84,128,1,Mexican Restaurant,Video Game Store,Supermarket
+1,90040,43585,2317,Commerce,490,295,17,33.9909,-118.1532,33.2,14121,3605,10.0,63661,9.51,128,5,Clothing Store,Yoga Studio,Electronics Store
+2,90066,75209,3403,Culver City,117,236,69,34.003,-118.4298,41.1,55775,24339,7.3,127240,5.31,188,6,Japanese Restaurant,Coffee Shop,Grocery Store
+3,90230,79242,3630,Culver City,117,236,69,33.9949,-118.3991,41.8,33255,13293,8.8,127747,5.01,188,6,Fast Food Restaurant,Pet Store,ATM
+4,90232,82254,3472,Culver City,117,236,69,34.0168,-118.3973,42.2,16107,7116,7.1,122950,3.39,188,6,Gym,Coffee Shop,Deli / Bodega
+5,90201,39498,2261,Bell,139,504,238,33.9653,-118.1515,31.1,101734,24548,7.1,58288,7.3,184,1,Fast Food Restaurant,Fried Chicken Joint,Seafood Restaurant
+6,90270,37553,2263,Bell,139,504,238,33.989000000000004,-118.1877,31.3,26908,6484,7.9,57893,7.64,184,1,Mexican Restaurant,Convenience Store,Pizza Place
+7,90210,149732,5170,Beverly Hills,18,19,14,34.0901,-118.4065,49.1,23296,9414,11.2,236159,4.16,106,6,Art Gallery,Clothing Store,Speakeasy
+8,90211,71402,3986,Beverly Hills,18,19,14,34.0652,-118.383,43.5,8537,3707,7.5,149531,4.7,106,6,Café,Cosmetics Shop,Movie Theater
+9,90212,103032,5212,Beverly Hills,18,19,14,34.0619,-118.3995,44.2,11496,5579,6.9,159286,4.6,106,6,Coffee Shop,Pizza Place,Restaurant
+10,90220,54014,2386,Compton,342,424,167,33.8748,-118.2402,32.1,51612,13364,9.6,75018,9.18,1174,5,Clothing Store,Food Court,Yoga Studio
+11,90221,46008,2310,Compton,342,424,167,33.8796,-118.2168,30.0,55751,12061,8.9,65080,10.0,1174,6,Coffee Shop,Fast Food Restaurant,Sandwich Place
+12,90222,40719,2390,Compton,342,424,167,33.9099,-118.2357,30.5,34149,7953,8.6,67212,8.54,1174,3,Pet Store,Fish & Chips Shop,Yoga Studio
+13,90240,81205,2547,Downey,180,174,55,33.9581,-118.1174,37.5,25748,7559,10.1,125928,4.04,367,1,Gym / Fitness Center,BBQ Joint,Yoga Studio
+14,90241,64222,2461,Downey,180,174,55,33.9416,-118.1306,36.4,44032,13983,7.8,95049,5.24,367,6,Asian Restaurant,Bar,Burger Joint
+15,90242,62402,2275,Downey,180,174,55,33.9218,-118.1395,34.5,44292,12868,8.3,88245,5.27,367,1,Donut Shop,Chinese Restaurant,Hotel
+16,90245,92942,3347,El Segundo,14,19,12,33.9243,-118.4119,42.3,16988,7206,7.8,148783,5.11,62,6,Park,Juice Bar,Gym
+17,90247,46076,2422,Gardena,47,76,80,33.8925,-118.2961,38.2,47724,16022,8.0,74928,6.99,326,6,Pharmacy,Burger Joint,Bank
+18,90248,58703,2454,Gardena,47,76,80,33.8766,-118.2835,43.5,10319,3619,9.8,98913,4.76,326,1,Intersection,Home Service,Mexican Restaurant
+19,90249,53964,2341,Gardena,47,76,80,33.8998,-118.3199,39.1,26993,8896,10.3,87726,6.18,326,6,Southern / Soul Food Restaurant,Vietnamese Restaurant,Sandwich Place
+20,90254,124849,3770,Hermosa Beach,23,25,5,33.8643,-118.3955,41.3,19741,9572,7.4,192025,2.96,30,6,Grocery Store,Coffee Shop,Yoga Studio
+21,90255,40325,2340,Huntington Park,309,195,32,33.9769,-118.2161,32.4,76237,18865,8.1,60120,7.32,429,1,Video Store,Mexican Restaurant,Pizza Place
+22,90260,58792,2545,Lawndale,32,33,10,33.8879,-118.351,35.7,34747,10304,7.9,87805,5.03,129,6,Noodle House,Home Service,Peruvian Restaurant
+23,90262,45897,2319,Lynwood,146,112,35,33.9241,-118.2013,31.3,69195,14651,8.6,69328,7.43,426,6,Park,Pharmacy,Gym
+24,90265,137672,4693,Malibu,30,154,5,34.0402,-118.7351,47.4,19728,7550,9.6,221339,4.53,37,2,Home Service,Yoga Studio,Financial or Legal Service
+25,90266,148899,4562,Manhattan Beach,41,22,6,33.8896,-118.3996,42.4,35032,13856,9.7,230270,4.1,57,6,Automotive Shop,Hotel,Bank
+26,90277,101532,3504,Redondo Beach,154,173,55,33.8307,-118.3832,46.1,36032,17438,7.4,156240,3.38,171,6,Pharmacy,Ramen Restaurant,Mexican Restaurant
+27,90278,107242,3246,Redondo Beach,154,173,55,33.8707,-118.3715,41.4,41490,16460,8.8,158666,4.72,171,6,Massage Studio,Donut Shop,Pizza Place
+28,90280,47281,2449,South Gate,259,357,44,33.9462,-118.2013,32.5,96619,24064,8.9,69277,8.94,634,6,Mexican Restaurant,Pharmacy,Fast Food Restaurant
+29,90301,42100,2451,Inglewood,510,461,221,33.955,-118.3556,36.0,37367,12289,7.1,60446,9.15,683,1,Mexican Restaurant,Pizza Place,Grocery Store
+30,90302,43788,2522,Inglewood,510,461,221,33.9745,-118.3548,36.2,29584,10857,7.1,73040,11.21,683,6,Pizza Place,Gym / Fitness Center,Southern / Soul Food Restaurant
+31,90303,44470,2421,Inglewood,510,461,221,33.9377,-118.3321,33.4,25873,7199,8.8,72431,9.26,683,6,Pizza Place,BBQ Joint,Bakery
+32,90304,41054,2430,Inglewood,510,461,221,33.9379,-118.3586,31.7,28773,6949,7.8,69520,7.62,683,1,Mexican Restaurant,Taco Place,Convenience Store
+33,90305,68760,2867,Inglewood,510,461,221,33.9583,-118.3259,45.2,15473,6179,11.3,99536,5.51,683,6,Fast Food Restaurant,Discount Store,Convenience Store
+34,90402,140179,5995,Santa Monica,905,1002,214,34.0349,-118.50299999999999,49.0,12326,5362,10.0,219288,6.52,797,0,Beach,Trail,Financial or Legal Service
+35,90403,92096,4635,Santa Monica,905,1002,214,34.0287,-118.4924,45.4,25043,14054,7.1,146141,5.41,797,6,Coffee Shop,Boutique,Grocery Store
+36,90404,73601,3775,Santa Monica,905,1002,214,34.0268,-118.4733,42.2,22260,10564,6.1,114836,6.86,797,6,Coffee Shop,Art Gallery,American Restaurant
+37,90501,64995,2543,Torrance,187,226,39,33.8268,-118.3118,38.1,45166,15243,8.0,98813,6.05,267,6,ATM,Food Truck,Video Store
+38,90502,68676,2460,Torrance,187,226,39,33.8286,-118.292,43.0,19020,6079,10.6,101526,5.72,267,6,Asian Restaurant,Chinese Restaurant,Fast Food Restaurant
+39,90503,84615,2918,Torrance,187,226,39,33.8397,-118.3542,43.4,46452,17732,8.4,130618,4.12,267,6,Chinese Restaurant,Japanese Restaurant,Video Store
+40,90504,79352,2837,Torrance,187,226,39,33.8708,-118.3295,42.7,33051,11870,10.2,114964,6.08,267,6,Video Store,Mexican Restaurant,Gas Station
+41,90505,91569,2744,Torrance,187,226,39,33.8106,-118.3507,45.5,37581,14564,8.8,139867,3.53,267,6,Bank,Discount Store,Hobby Shop
+42,90602,48427,2359,Whittier,185,286,155,33.9693,-118.0337,34.8,25335,8152,7.6,81237,4.85,233,6,Cosmetics Shop,Convenience Store,Indie Theater
+43,90603,95354,2511,Whittier,185,286,155,33.9432,-117.9927,40.3,20543,6858,12.7,121904,3.95,233,6,Grocery Store,Pharmacy,Ice Cream Shop
+44,90638,86141,2655,La Mirada,56,30,11,33.9067,-118.0101,39.9,47718,14763,12.7,119508,5.01,89,6,Park,Tennis Court,College Cafeteria
+45,90640,50326,2394,Montebello,342,158,42,34.0133,-118.113,36.9,63188,19206,8.6,76508,6.28,218,6,Pharmacy,Poke Place,Mobile Phone Shop
+46,90650,63669,2377,Norwalk,262,200,52,33.9056,-118.0818,35.1,106576,27350,11.0,87620,5.35,449,6,Fast Food Restaurant,Coffee Shop,Discount Store
+47,90660,61524,2356,Pico Rivera,204,205,46,33.9886,-118.0883,35.7,62895,16580,13.1,83801,5.47,228,6,Vietnamese Restaurant,Bakery,Playground
+48,90670,66509,2410,Santa Fe Springs,258,147,30,33.9464,-118.0838,36.7,16524,5047,9.2,99369,3.33,105,6,Sandwich Place,Café,Discount Store
+49,90701,62863,2274,Artesia,16,24,8,33.8654,-118.0731,40.7,16778,4614,10.3,98751,3.78,82,1,Gift Shop,Korean Restaurant,Yoga Studio
+50,90703,98175,2652,Cerritos,58,53,9,33.8669,-118.0686,46.0,49572,15865,15.2,139610,5.21,162,1,Food Truck,Korean Restaurant,Filipino Restaurant
+51,90706,52944,2340,Bellflower,135,148,118,33.8867,-118.1265,34.7,79322,24487,7.3,80774,5.79,335,6,Sandwich Place,Mexican Restaurant,BBQ Joint
+52,90712,83627,2593,Lakewood,103,135,15,33.8512,-118.1457,39.9,31580,10913,11.6,110705,4.35,270,1,Mexican Restaurant,Pizza Place,Mobile Phone Shop
+53,90713,94110,2067,Lakewood,103,135,15,33.8473,-118.1115,40.5,28460,9594,14.0,122638,4.21,270,6,Smoke Shop,Convenience Store,Coffee Shop
+54,90715,69905,2341,Lakewood,103,135,15,33.8405,-118.0767,37.2,20615,6249,8.5,92287,5.44,270,1,Korean Restaurant,Pizza Place,Gym / Fitness Center
+55,90716,38500,2134,Hawaiian Gardens,27,86,15,33.8296,-118.073,31.5,13729,3456,8.7,62778,7.09,81,1,Mexican Restaurant,Sandwich Place,Grocery Store
+56,90717,61077,2593,Lomita,14,26,11,33.7938,-118.3172,41.4,21689,8528,8.4,102014,5.56,66,6,Asian Restaurant,Pizza Place,Gym
+57,90723,49064,2293,Paramount,107,114,8,33.8969,-118.1632,31.9,54522,14070,8.1,69099,5.82,329,6,Thai Restaurant,Italian Restaurant,Bank
+58,90745,73053,2458,Carson,469,326,62,33.823,-118.2684,38.4,60129,15956,12.1,100367,7.35,435,6,Video Store,Convenience Store,Asian Restaurant
+59,90746,81988,2684,Carson,469,326,62,33.8584,-118.2554,42.1,25484,7966,14.0,108102,8.01,435,6,Soccer Field,Concert Hall,Pool Hall
+60,90810,56061,2293,Carson,469,326,62,33.8193,-118.2325,34.0,37334,9445,10.3,85327,8.11,435,6,Café,Gym,Fast Food Restaurant
+61,90755,75828,2398,Signal Hill,36,50,6,33.8029,-118.1677,39.1,12489,4631,7.5,117643,5.19,86,6,Pet Store,Park,Sandwich Place
+62,90802,51302,2115,Long Beach,---(1),0,571,33.7706,-118.182,39.7,40993,20832,5.4,83478,5.33,3284,6,Coffee Shop,Hotel,Burger Joint
+63,90806,50615,2285,Long Beach,---(1),0,571,33.8045,-118.1876,33.4,43971,12680,7.1,75495,5.89,3284,6,Fast Food Restaurant,Sandwich Place,Pharmacy
+64,90808,102563,2327,Long Beach,---(1),0,571,33.8241,-118.1103,43.5,38392,14183,14.5,145068,2.92,3284,6,Martial Arts Dojo,Snack Place,Construction & Landscaping
+65,90813,34257,2062,Long Beach,---(1),0,571,33.782,-118.1835,31.0,59970,16978,5.6,55721,9.09,3284,6,Vietnamese Restaurant,Grocery Store,Pizza Place
+66,90814,64623,2428,Long Beach,---(1),0,571,33.7716,-118.148,42.0,18294,8804,6.6,107247,4.32,3284,6,Convenience Store,Donut Shop,Cosmetics Shop
+67,90815,84714,2413,Long Beach,---(1),0,571,33.7939,-118.1192,41.0,38672,14886,10.1,128864,4.46,3284,6,Grocery Store,Yoga Studio,Gym / Fitness Center
+68,91006,99360,2749,Arcadia,15,77,3,34.1324,-118.0264,45.0,33026,11093,11.8,147129,4.35,76,6,Chinese Restaurant,Fast Food Restaurant,Donut Shop
+69,91007,79964,2751,Arcadia,15,77,3,34.1243,-118.0515,46.5,33898,11856,9.3,125947,4.18,76,6,Dessert Shop,Chinese Restaurant,Bakery
+70,91010,68599,2413,Azusa,143,325,41,34.1407,-117.9567,40.5,26701,8267,10.4,103019,7.29,193,6,Thai Restaurant,Park,Restaurant
+71,91702,59104,2349,Azusa,143,325,41,34.1248,-117.9031,32.9,63677,16878,8.5,88788,6.15,193,1,Mexican Restaurant,Convenience Store,Fast Food Restaurant
+72,91011,160288,3133,La Cañada Flintridge,-,2,0,34.2217,-118.2051,46.8,20893,7044,14.2,245816,2.6,13,6,Home Service,Photography Studio,Trail
+73,91016,71341,2497,Monrovia,69,75,16,34.144,-118.0014,40.2,41665,15477,8.0,114169,6.55,69,6,Mexican Restaurant,Café,Coffee Shop
+74,91024,98547,2731,Sierra Madre,-,0,0,34.1651,-118.0519,49.3,11305,4983,9.3,172643,4.99,7,6,American Restaurant,Liquor Store,Bank
+75,91030,92847,2823,South Pasadena,22,34,3,34.1109,-118.1547,43.1,25925,10477,8.2,146297,4.31,32,6,Chinese Restaurant,Coffee Shop,Pizza Place
+76,91101,64223,2439,Pasadena,---(1),0,240,34.1468,-118.1391,38.4,21207,10947,5.0,98081,3.95,547,6,Coffee Shop,American Restaurant,Pizza Place
+77,91103,69334,2774,Pasadena,---(1),0,240,34.1669,-118.1551,37.0,29087,9107,7.9,113404,4.94,547,6,Dance Studio,Brewery,Liquor Store
+78,91104,72189,2529,Pasadena,---(1),0,240,34.1678,-118.1261,41.0,36386,12977,8.8,119494,5.32,547,6,Bakery,Women's Store,Donut Shop
+79,91105,112765,3415,Pasadena,---(1),0,240,34.1355,-118.1636,50.0,13099,6231,8.2,172006,3.88,547,6,Trail,Intersection,Bridge
+80,91106,77380,2594,Pasadena,---(1),0,240,34.1435,-118.1266,39.1,24437,10854,6.3,127331,4.19,547,6,Bookstore,Sushi Restaurant,Mexican Restaurant
+81,91107,92266,2642,Pasadena,---(1),0,240,34.150999999999996,-118.0889,43.8,33737,13420,9.2,147435,4.0,547,6,Salon / Barbershop,Thrift / Vintage Store,Dive Bar
+82,91201,56580,2671,Glendale,---(1),0,112,34.1716,-118.2899,43.5,23056,8333,7.6,102211,6.99,202,6,Fast Food Restaurant,Middle Eastern Restaurant,Coffee Shop
+83,91202,66657,2804,Glendale,---(1),0,112,34.1652,-118.2656,44.1,23720,9111,7.9,115320,6.21,202,6,Pizza Place,Spa,Chinese Restaurant
+84,91203,51360,2576,Glendale,---(1),0,112,34.1517,-118.2636,42.9,16604,6586,4.7,85183,7.62,202,6,Art Gallery,Moving Target,Yoga Studio
+85,91206,57379,2750,Glendale,---(1),0,112,34.1556,-118.2322,45.0,32993,13165,7.8,106126,6.69,202,6,Pharmacy,Bookstore,Pet Service
+86,91208,105000,2853,Glendale,---(1),0,112,34.1921,-118.235,46.2,16723,6270,11.3,160254,3.63,202,6,Golf Course,American Restaurant,Yoga Studio
+87,91214,94322,2705,Glendale,---(1),0,112,34.2316,-118.2457,45.0,30697,10614,10.9,144739,3.22,202,1,Korean Restaurant,Asian Restaurant,Hot Dog Joint
+88,91301,117615,3305,Agoura Hills,2,0,4,34.1227,-118.7573,44.5,26203,9534,11.6,186800,3.25,27,6,Trail,Scenic Lookout,Video Store
+89,91302,122967,4273,Calabasas,4,5,0,34.1419,-118.6641,45.1,27789,9937,10.6,197423,4.22,26,6,Soccer Field,Tennis Court,Sculpture Garden
+90,91340,54703,2469,San Fernando,---(5),0,0,34.2875,-118.4352,33.2,35861,8596,9.7,79385,6.3,102,1,Mexican Restaurant,Ice Cream Shop,BBQ Joint
+91,91501,64006,2799,Burbank,200,282,46,34.1862,-118.3009,41.9,22049,8641,7.0,105379,6.69,229,6,Arts & Entertainment,Pet Store,Construction & Landscaping
+92,91502,41784,2563,Burbank,200,282,46,34.1745,-118.3059,41.7,11899,5231,5.8,72062,7.83,229,6,Hotel,Music Venue,Brewery
+93,91505,82630,2874,Burbank,200,282,46,34.169000000000004,-118.3442,42.5,31440,13327,8.0,114453,4.86,229,6,Coffee Shop,Gift Shop,Pizza Place
+94,91506,72681,2817,Burbank,200,282,46,34.1717,-118.3231,44.3,4,2,8.5,116695,6.27,229,6,Park,Hobby Shop,Shoe Store
+95,91706,57240,2233,Baldwin Park,289,273,33,34.0964,-117.9682,33.4,77043,17625,11.0,82030,5.52,287,6,Business Service,Construction & Landscaping,Supermarket
+96,91711,97002,2401,Claremont,28,27,8,34.1092,-117.7183,42.7,33928,12134,9.8,145917,4.44,66,6,Theater,ATM,Grocery Store
+97,91722,70632,2363,Covina,98,220,47,34.0972,-117.9065,36.5,35680,10431,10.0,93229,6.7,188,1,Mexican Restaurant,Fast Food Restaurant,Liquor Store
+98,91723,63270,2282,Covina,98,220,47,34.086,-117.8843,36.9,17972,6240,7.3,89371,5.92,188,6,Salon / Barbershop,Home Service,Bank
+99,91731,36344,2359,El Monte,517,428,231,34.0791,-118.0371,35.8,29992,8152,8.2,63430,6.2,362,6,Mexican Restaurant,Mobile Phone Shop,Vietnamese Restaurant
+100,91732,48254,2356,El Monte,517,428,231,34.0705,-118.0149,34.3,62658,15140,9.1,72338,5.21,362,6,Paper / Office Supplies Store,Department Store,Fast Food Restaurant
+101,91733,42758,2321,El Monte,517,428,231,34.0557,-118.0444,33.2,44325,10113,8.4,66639,4.89,362,6,Sporting Goods Shop,Construction & Landscaping,Food
+102,91740,76825,2403,Glendora,60,64,7,34.1287,-117.8552,40.2,26226,8656,9.9,106078,7.32,122,6,Yoga Studio,Health & Beauty Service,Liquor Store
+103,91741,99474,2522,Glendora,60,64,7,34.1537,-117.8437,41.8,27052,9490,11.0,138826,5.88,122,6,Business Service,Trail,Yoga Studio
+104,91750,83743,2360,La Verne,7,21,13,34.1159,-117.7708,44.4,33378,12211,11.8,124887,5.52,87,6,Pizza Place,Pharmacy,Dessert Shop
+105,91754,58056,2503,Monterey Park,48,80,12,34.0534,-118.1271,44.8,33810,11480,10.2,95467,5.13,124,6,Performing Arts Venue,Business Service,Liquor Store
+106,91755,49755,2548,Monterey Park,48,80,12,34.048,-118.115,45.8,28387,9185,8.8,90914,5.33,124,2,Home Service,Pool,Yoga Studio
+107,91765,95285,2330,Diamond Bar,4,4,7,34.0066,-117.8098,43.4,47968,15750,12.8,130235,4.85,58,6,Bagel Shop,Bank,Korean Restaurant
+108,91767,54157,2214,Pomona,785,698,394,34.0812,-117.7362,34.2,50474,14514,8.3,82836,7.51,877,1,Baseball Field,Donut Shop,Mexican Restaurant
+109,91768,50044,2170,Pomona,785,698,394,34.0662,-117.7763,31.0,33281,7708,8.7,80424,9.22,877,1,Mexican Restaurant,Korean Restaurant,Japanese Restaurant
+110,91770,51383,2435,Rosemead,70,91,49,34.0658,-118.0853,40.8,63008,16920,9.8,79943,5.43,194,6,Convenience Store,Vietnamese Restaurant,Pharmacy
+111,91773,81020,2388,San Dimas,13,10,16,34.1023,-117.8169,43.8,34686,12414,10.2,120335,4.43,80,6,Grocery Store,Fast Food Restaurant,Mexican Restaurant
+112,91775,81250,2600,San Gabriel,6,27,14,34.1155,-118.0857,44.0,25161,8645,10.7,125822,3.74,136,4,Food,Yoga Studio,Food Truck
+113,91776,52051,2508,San Gabriel,6,27,14,34.089,-118.0955,42.1,39139,12008,8.2,80429,4.95,136,6,Asian Restaurant,Donut Shop,Yoga Studio
+114,91780,67910,2588,Temple City,9,30,7,34.1016,-118.0537,44.1,35242,11500,10.0,105516,4.09,64,6,Home Service,Historic Site,Pet Store
+115,91790,74965,2407,West Covina,254,142,42,34.0673,-117.9366,37.0,46256,13167,9.9,101350,6.83,292,6,Bakery,Sushi Restaurant,Gym / Fitness Center
+116,91792,70932,2404,West Covina,254,142,42,34.0229,-117.8975,38.1,32385,9438,9.3,97211,7.49,292,6,Korean Restaurant,Auto Garage,Restaurant
+117,91801,53644,2499,Alhambra,52,68,39,34.0914,-118.1293,42.6,54337,20094,7.4,87650,4.72,193,6,Ice Cream Shop,Sushi Restaurant,Bakery
+118,91803,61424,2484,Alhambra,52,68,39,34.0745,-118.1434,42.6,30261,9974,9.1,93720,3.92,193,6,Construction & Landscaping,Indonesian Restaurant,Flower Shop
+119,93534,37883,1865,Lancaster,---(2),0,0,34.6909,-118.1491,33.1,42606,14857,6.6,55832,6.48,1193,1,Mexican Restaurant,Vegetarian / Vegan Restaurant,Burger Joint
+120,93552,60612,1945,Palmdale,---(3),0,0,34.5715,-118.0231,31.0,43851,10672,8.9,73917,8.64,591,2,Pool,Print Shop,Yoga Studio
